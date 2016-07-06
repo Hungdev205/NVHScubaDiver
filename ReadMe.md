@@ -1,1 +1,1 @@
-NVHScubaDiver is an animational application developted by HungNguyen
+NVHScubaDiver is an animational application developed by HungNguyen
